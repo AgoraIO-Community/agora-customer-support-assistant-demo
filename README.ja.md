@@ -6,6 +6,8 @@
 
 Agora と Next.js で構築した音声 AI カスタマーサポートのデモです。製品やサービスについて相談し、基本的な問題を切り分け、販売店やサービス提供元への問い合わせ内容を整理できます。
 
+**[デモを試す →](https://agora-customer-support-assistant-de.vercel.app)**
+
 **[Agora Recipes で音声 AI デモをもっと探す →](https://recipes.agora.io/)**
 
 [![Agora](https://img.shields.io/badge/Voice_AI-Agora-099DFD)](https://www.agora.io/en/products/conversational-ai-engine/)
@@ -79,6 +81,8 @@ pnpm run dev
 ```
 
 [http://localhost:3000](http://localhost:3000) を開き、**Start customer support** を選んでマイクの使用を許可します。必要に応じて要約を依頼し、終了ボタン（**End session**）で通話を終えます。
+
+各セッションは10分後に自動終了します。続けるには Start again を選択してください。
 
 <a id="deployment"></a>
 
