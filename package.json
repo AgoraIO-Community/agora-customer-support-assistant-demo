@@ -1,6 +1,6 @@
 {
   "name": "agora-customer-support-assistant-demo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Get general customer support for product or service questions, troubleshooting, returns and order concerns.",
   "private": true,
   "engines": {
